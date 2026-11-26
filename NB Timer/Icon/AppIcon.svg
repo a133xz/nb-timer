@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <title>NB Timer</title>
+  <rect width="1024" height="1024" rx="224" fill="#FFFFFF"/>
+  <circle cx="512" cy="512" r="268" fill="none" stroke="#000000" stroke-width="16"/>
+  <line x1="512" y1="512" x2="512" y2="360" stroke="#000000" stroke-width="16"/>
+</svg>
